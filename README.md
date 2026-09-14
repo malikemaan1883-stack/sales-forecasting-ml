@@ -86,6 +86,16 @@ Performance:
 - MSE: 5,570,311.46
 - R²: 0.1229
 
+## Visualizations
+
+### Actual vs Predicted Sales
+
+![Actual vs Predicted Sales](images/actual_vs_predicted.png)
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
 ## Feature Importance
 
 The most important features for the Random Forest model included:
