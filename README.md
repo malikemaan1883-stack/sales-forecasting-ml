@@ -9,7 +9,15 @@ to train and compare multiple regression models.
 
 The main objective was to understand how historical sales patterns and calendar-based
 features can be used to predict future sales.
+## Tech Stack
 
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Joblib
+- Jupyter Notebook
 ## Dataset
 
 - Dataset shape: 10,800 rows × 21 columns
